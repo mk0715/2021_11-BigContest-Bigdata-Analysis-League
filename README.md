@@ -1,1 +1,0 @@
-# 2021_11-BigContest-Bigdata-Analysis-League
